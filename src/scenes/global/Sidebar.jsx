@@ -104,8 +104,8 @@ const SidebarMenu = () => {
                   />
                 </Box>
                 <Box textAlign="center">
-                  <Typography variant="h2" color={colors.grey[100]} fontWeight="bold" sx={{ m: "10px 0 0 0"}}>Ed Roh</Typography>
-                  <Typography variant="h5" color={colors.greenAccent[500]}>VP Fancy Admin</Typography>
+                  <Typography variant="h2" color={colors.grey[100]} fontWeight="bold" sx={{ m: "10px 0 0 0"}}>Dronov</Typography>
+                  <Typography variant="h5" color={colors.greenAccent[500]}>Admin</Typography>
                 </Box>
               </Box>
             )}
